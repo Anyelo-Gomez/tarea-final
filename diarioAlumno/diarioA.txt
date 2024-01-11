@@ -2,3 +2,5 @@ Aquí viene tu diario
 
 acabo de subir todos los archivos al commit ahora creere una 
 rama 
+
+ahora voy añadir una nueva rama y unirla al la rama master 
